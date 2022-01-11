@@ -54,7 +54,7 @@
             <a href="#" class="nav-link">
             <i class="fas fa-users"></i>
               <p>
-                จัดการสมาชิก
+                จัดการสมาชิก1
               </p>
             </a>
           </li>
